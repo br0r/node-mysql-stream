@@ -1,7 +1,7 @@
 # nmysql
 
 Stream data directly from mysql instead of waiting for buffering.   
-Only output for now.
+Only output for now. And all output is JSON formatted.   
 
 ## Installation
 ```
