@@ -1,0 +1,13 @@
+{
+  "name": "nmysql",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "nmysql": "bin/nmysql.js"
+  },
+  "author": "Viktor Silfverström <viktor@silfverstrom.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.12.0"
+  }
+}
