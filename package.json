@@ -1,7 +1,7 @@
 {
-  "name": "nmysql",
+  "name": "node-mysql-stream",
   "version": "1.0.0",
-  "description": "",
+  "description": "Stream mysql data directly in shell.",
   "bin": {
     "nmysql": "bin/nmysql.js"
   },
